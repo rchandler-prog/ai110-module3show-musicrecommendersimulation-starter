@@ -3,7 +3,10 @@
     "allow": [
       "Bash(git add *)",
       "Bash(git commit -m 'Add lofi/chill user profile *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(python -m src.main)",
+      "Bash(python -c ' *)",
+      "Bash(git commit -m 'Implement working CLI-first recommender simulation *)"
     ]
   }
 }
