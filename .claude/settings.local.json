@@ -9,7 +9,8 @@
       "Bash(git commit -m 'Implement working CLI-first recommender simulation *)",
       "Bash(python /private/tmp/claude-501/-Users-tigerchandler-ai110-module3show-musicrecommendersimulation-starter/5deb2f91-077d-491c-9776-d8443c296748/scratchpad/experiment.py)",
       "Bash(PYTHONPATH=/Users/tigerchandler/ai110-module3show-musicrecommendersimulation-starter python /private/tmp/claude-501/-Users-tigerchandler-ai110-module3show-musicrecommendersimulation-starter/5deb2f91-077d-491c-9776-d8443c296748/scratchpad/experiment.py)",
-      "Bash(git commit -m 'Evaluate recommender: diverse + adversarial profiles, weight experiment, bias analysis *)"
+      "Bash(git commit -m 'Evaluate recommender: diverse + adversarial profiles, weight experiment, bias analysis *)",
+      "Bash(git commit -m 'Complete model card: name, intended use, algorithm, data, strengths, future work, reflection *)"
     ]
   }
 }
